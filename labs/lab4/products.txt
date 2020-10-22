@@ -1,0 +1,5 @@
+LKM356	"50 inches TV"	Samsung	499	17
+POM129	"Miele vaccum"	Miele	389	29
+ASD654	"Surface notebook 13 inch"	Microsoft	899	31
+BHG262	"Mac all in one 21 inches"	Apple	1799	55
+MNJ898	"Nespresso Machine"	Nespresso	215	29
