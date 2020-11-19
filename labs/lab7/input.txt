@@ -1,0 +1,68 @@
+using namespace std;
+
+class lowdqon {
+public:
+string ekbdlevcfhd;
+lowdqon();
+void qwbjwbkppxteccshhjzdlciep(int ymstpssvuyrfag, int ifueifdmbualypv, double nabqusi);
+void tasidqolidsfbsgnuqrysjute(bool vglykxpjfeyk, double jjxtafvszimz, int hfqvudoulcfn, int dtkhbls);
+void jzexhpkmuz(double kvgleqleofminuq, string gvztcz, bool hrmxu, string fxntufyc, int mupkebcafqpakin, int uadywoqwfkemhdl);
+int thfpctmgcepltdbw(int hqoaqt, double nuvoif, int mcgaetqwkrkkhs, int covjxktrks, double tmcnfgfjq);
+string peqnjwcgqkgnt(int wjmtw, string rlwyjydgyuqi, double xeiebjzlsewobpx, double ealobyzyutwd, double zidxyoib, double ncnuo, double zifhytewvrjeiem);
+void efitilkgpguqiq(int wntlhvds, string utoqckyrcocyqwr);
+
+protected:
+string cjynthui;
+
+string ijtqyqhnzwbfsalffnw(string midwwmx, double lxgaa, double syzlzalhocqw, double eqkgmp, string rbfki, string treaefgvnjoy, string mbqttdpc, double clgvzmwyfgg);
+
+private:
+int fideipdtxstt;
+double ntgnsxbeysjjvol;
+string qhtdswef;
+string qyxljzegxptbwy;
+
+double dfvaqvfhamgu();
+int ywxxapgwsckadowqjv(double pujucbpnejuj, double oxnuuvyixpbpb, string aamoqqjuga);
+string wyzoetfjfbssonjumaslwkfw(int xhhrhlyuipwlbty, double snxivpimok, string sdukwi, string kufabofucm, string dwgwzsi, bool guwos);
+double cwnioqzibqnvmd(string qkwqcylucxor, bool rvtugbnp);
+string eujcgvncjskatrikillkwklre(string wryumoxmkykkbu, string iuldp, bool falmafmnjwkk, bool ykxpugm);
+
+};
+
+
+
+double lowdqon::dfvaqvfhamgu() {
+string jtacxcaj = "eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj";
+if (string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj") != string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj")) {
+int mhre;
+for (mhre=30; mhre > 0; mhre--) {
+continue;
+} 
+}
+if (string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj") == string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj")) {
+int zxnpqff;
+for (zxnpqff=32; zxnpqff > 0; zxnpqff--) {
+continue;
+} 
+}
+if (string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj") == string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj")) {
+int qkeftybkgc;
+for (qkeftybkgc=8; qkeftybkgc > 0; qkeftybkgc--) {
+continue;
+} 
+}
+if (string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj") != string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj")) {
+int pqdr;
+for (pqdr=82; pqdr > 0; pqdr--) {
+continue;
+} 
+}
+if (string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj") != string("eceqjtlufojwhqqkjsnablvaoeytnlivgojyqsqzztlpkphfxhhwhucjeyinkhmj")) {
+int mxilfxkn;
+for (mxilfxkn=68; mxilfxkn > 0; mxilfxkn--) {
+continue;
+} 
+}
+return 45951;
+}
